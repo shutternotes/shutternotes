@@ -1,5 +1,3 @@
-# Shutter Notes
-
 <img src="https://shutternotes.github.io/res/en-us/images/banner.png"/>
 
 Have you ever took pictures in a trip using filters and when you are back home processing the photos you realize that you have completely forgotten what filter you used on each photo? Or, you were in a guided tour and forgot some interesting information about the place that the guide mentioned? Or yet, you forgot the location were the photos were taken?
