@@ -8,4 +8,4 @@ With **Shutter Notes** you can take notes of these things while you are photogra
 
 <br>
 
-[![Shutter Notes](https://github-readme-stats.vercel.app/api/pin/?username=shutternotes&repo=shutternotes.github.io)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/shutternotes/shutternotes.github.io))
+[![Shutter Notes](https://github-readme-stats.vercel.app/api/pin/?username=shutternotes&repo=shutternotes.github.io)](https://github.com/shutternotes/shutternotes.github.io)
